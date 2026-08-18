@@ -3,6 +3,7 @@
 This repository contains simulation code and analysis for the preprint:
 
 **Self-organizing physical and biochemical interactions explain diverse behaviours in *Physarum polycephalum***
+
 Linnéa Gyllingberg, Abid Haque, Subash K. Ray, Gregory Weber, Jason M. Graham, and Simon Garnier
 
 bioRxiv, 2026
